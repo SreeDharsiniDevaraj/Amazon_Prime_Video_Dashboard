@@ -2,7 +2,8 @@
 
 ## Preview
 
-https://github.com/SreeDharsiniDevaraj/Amazon_Prime_Video_Dashboard/blob/main/Amazon_Prime_Video_Dashboard_Output.PNG
+![Amazon_Prime_Video_Dashboard_Output](https://github.com/user-attachments/assets/15b52c64-f504-45ae-a661-179dffde6aea)
+
 
 ## Overview
 
